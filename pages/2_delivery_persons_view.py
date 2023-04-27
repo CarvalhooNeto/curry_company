@@ -157,7 +157,7 @@ def top_deliverys(df, top_asc = True):
     
 # Read csv file
 
-df_raw = pd.read_csv('../dataset/train.csv')
+df_raw = pd.read_csv('dataset/train.csv')
 
 # Copy of main file
 df = df_raw.copy()
