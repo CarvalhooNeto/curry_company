@@ -172,7 +172,7 @@ def country_map(df):
         
 # Read csv file
 
-df_raw = pd.read_csv('../dataset/train.csv')
+df_raw = pd.read_csv('dataset/train.csv')
 
 # Copy of main file
 
